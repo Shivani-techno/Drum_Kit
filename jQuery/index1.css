@@ -1,0 +1,10 @@
+.big-title{
+  color:yellow;
+  font-size: 3rem;
+  font-style: italic;
+}
+.margin-50{
+  margin: 500;
+  font-weight: bolder;
+  font-family: monospace;
+}
